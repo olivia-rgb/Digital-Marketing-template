@@ -104,7 +104,6 @@ function BlogSection() {
   );
 }
 
-export default BlogSection;
 function SubscribeSection() {
   return (
     <section className="flex flex-col items-center py-20 pr-7 pl-20 bg-white max-md:px-5">
