@@ -146,7 +146,7 @@ function Footer() {
           <div className="flex flex-col grow items-start text-xl tracking-wide leading-9 text-neutral-500 max-md:mt-10">
             <img loading="lazy" src="https://cdn.builder.io/api/v1/image/assets/TEMP/f6d7229f200eebafc7de4ff878a5326daf7cfc4ffc676d96044a8dbdf0502cbc?apiKey=f417b8c00fe14582a1a201b8017683ae&" alt="" className="max-w-full aspect-[6.25] w-[198px]" />
             <p className="self-stretch mt-10 max-md:mt-10">
-              Marketing is a company that focus on developing company's strategy for increase digital marketing
+              Marketing is a company that focus on developing company strategy for increase digital marketing
             </p>
             <img loading="lazy" src="https://cdn.builder.io/api/v1/image/assets/TEMP/9758e49b92ffd6590d932903edb6f212891c0cdb4e2db28c8ddece568df5d238?apiKey=f417b8c00fe14582a1a201b8017683ae&" alt="" className="mt-9 max-w-full aspect-[4.17] w-[168px]" />
           </div>
