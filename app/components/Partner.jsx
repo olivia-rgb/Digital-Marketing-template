@@ -7,7 +7,7 @@ const Partner = () => {
         <div className="text-5xl font-bold tracking-wider text-gray-800 leading-[65.1px] max-md:max-w-full">
           <p>How Can We Help You?</p>
         </div>
-        <div className="mt-11 text-2xl text-neutral-500 max-md:mt-10"><p>Let's do great work together</p>
+        <div className="mt-11 text-2xl text-neutral-500 max-md:mt-10"><p>Let us do  a great work together</p>
         </div>
     <div className="flex flex-col">
       <div className="flex gap-5 items-center self-center px-5 max-md:flex-wrap">
