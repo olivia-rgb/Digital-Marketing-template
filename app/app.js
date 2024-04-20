@@ -1,11 +1,4 @@
 
-function HeroSection() {
-  return (
-
-  );
-}
-
-export default HeroSection;
 import * as React from "react";
 
 function BlogPost({ image, date, title, description }) {

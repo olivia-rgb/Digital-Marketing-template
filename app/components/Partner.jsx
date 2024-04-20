@@ -5,10 +5,9 @@ const Partner = () => {
     <div className="flex justify-center items-center px-10 py-20 bg-slate-50 max-md:px-5">
       <div className="flex flex-col items-center mt-9 w-full max-w-[1056px] max-md:max-w-full">
         <div className="text-5xl font-bold tracking-wider text-gray-800 leading-[65.1px] max-md:max-w-full">
-          How Can We Help You?
+          <p>How Can We Help You?</p>
         </div>
-        <div className="mt-11 text-2xl text-neutral-500 max-md:mt-10">
-          Let's do great work together
+        <div className="mt-11 text-2xl text-neutral-500 max-md:mt-10"><p>Let's do great work together</p>
         </div>
     <div className="flex flex-col">
       <div className="flex gap-5 items-center self-center px-5 max-md:flex-wrap">
